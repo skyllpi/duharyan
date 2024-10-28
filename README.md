@@ -31,6 +31,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=duharyan&show_icons=true&theme=dark" alt="Aryan's GitHub stats" style="width: 49%;"/>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=duharyan&theme=dark" alt="GitHub Streak" style="width: 50%; height: 200px;"/>
+    <img src="https://streak-stats.demolab.com/?user=duharyan&theme=dark" alt="GitHub Streak" style="width: 50%; height: 210px;"/>
   </a>
 </div>
