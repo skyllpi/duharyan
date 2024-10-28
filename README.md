@@ -1,5 +1,4 @@
-### Hello, I'm Aryan Sharma ✌️
-<br></br>
+<h1> Hello, I'm Aryan Sharma ✌️</h1>
 I'm currently pursuing a B.Tech in Artificial Intelligence and Machine Learning at Bennett University, with a keen interest in reading research papers.
 
 ### Technology
