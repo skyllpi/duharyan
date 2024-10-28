@@ -24,11 +24,9 @@
 </p>
 
 <h4>Stats</h4>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=duharyan&show_icons=true&theme=dark" alt="Aryan's GitHub stats"/>
-</p>
-<p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=duharyan&show_icons=true&theme=dark" alt="Aryan's GitHub stats" style="width: 49%;"/>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=duharyan&theme=dark" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=duharyan&theme=dark" alt="GitHub Streak" style="width: 49%;"/>
   </a>
-</p>
+</div>
