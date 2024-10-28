@@ -10,7 +10,7 @@
   <li><code>Python</code></li>
 </ul>
 
-<h3>Contact</h3> 
+<h2>Contact</h2> 
 <p>
   <a href="https://linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/Follow-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Follow Badge"/>
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<h4>Stats</h4>
+<h2>Stats</h2>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=duharyan&show_icons=true&theme=dark" alt="Aryan's GitHub stats" style="width: 49%;"/>
   <a href="https://git.io/streak-stats">
