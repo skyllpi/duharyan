@@ -1,3 +1,4 @@
+<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" />
 <h1>Hello, I'm Aryan Sharma ✌️</h1>
 <p>I'm currently pursuing a B.Tech in Artificial Intelligence and Machine Learning at Bennett University, with a keen interest in reading research papers. </p>
 
@@ -11,12 +12,6 @@
 </ul>
 
 <h2>Contact</h2> 
-<p>
-  <a href="https://linkedin.com/](https://www.linkedin.com/in/aryan-sharma-4b766b28a/" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Follow Badge"/>
-  </a>
-</p>
-<p>
   <a href="https://instagram.com/aryxnshxrmx" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20%40aryxnshxrmx-833AB4?style=flat&logo=instagram&logoColor=white" alt="Instagram Follow Badge"/>
   </a>
