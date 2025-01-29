@@ -12,7 +12,7 @@
 
 <h2>Contact</h2> 
 <p>
-  <a href="https://linkedin.com/" target="_blank">
+  <a href="https://linkedin.com/](https://www.linkedin.com/in/aryan-sharma-4b766b28a/" target="_blank">
     <img src="https://img.shields.io/badge/Follow-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Follow Badge"/>
   </a>
 </p>
