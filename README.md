@@ -1,6 +1,19 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" />
 <h1>Hello, I'm Aryan Sharma ✌️</h1>
-<p>I'm currently pursuing a B.Tech in Artificial Intelligence and Machine Learning at Bennett University, with a keen interest in reading research papers. </p>
+<p>
+I'm currently pursuing a <strong>B.Tech in Artificial Intelligence and Machine Learning</strong> at <strong>Bennett University</strong>. 
+I'm deeply passionate about technology, especially in the fields of <strong>Machine Learning</strong>, <strong>Computer Vision</strong>, and <strong>Natural Language Processing</strong>. 
+In my free time, I enjoy exploring research papers to stay updated with the latest advancements in AI.
+</p>
+
+<p>
+Alongside AI/ML, I have a strong background in <strong>Full-Stack Web Development</strong>. I love building responsive, scalable, and modern web applications using technologies like <code>React</code>, <code>Node.js</code>, <code>Express</code>, <code>FastAPI</code>, and <code>Firebase</code>. 
+Whether it's designing frontend interfaces or working on backend APIs, I enjoy bringing ideas to life through code.
+</p>
+
+<p>
+I'm always eager to collaborate on impactful projects, learn new technologies, and contribute to open-source communities. Let's connect and create something awesome together!
+</p>
+
 
 <h2>Languages</h2>
 <p>
