@@ -51,14 +51,13 @@
 <h2>Contact</h2>
 
 <p>
-  <a href="https://www.instagram.com/skyllpi/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-@skyllpi-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow @skyllpi on Instagram"/>
+  <a href="https://www.instagram.com/skyllpi/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-e4405f?style=social&logo=instagram" alt="Instagram Badge"/>
   </a>
-</p>
 
-<p>
-  <a href="https://x.com/Aryxnshxrmx" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-@Aryxnshxrmx-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow @Aryxnshxrmx on X"/>
+  <!-- X (Twitter) -->
+  <a href="https://x.com/Aryxnshxrmx" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=social&logo=x" alt="X/Twitter Badge"/>
   </a>
 </p>
 
