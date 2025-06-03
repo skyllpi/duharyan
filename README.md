@@ -2,16 +2,16 @@
 <p>
 I'm currently pursuing a <strong>B.Tech in Artificial Intelligence and Machine Learning</strong> at <strong>Bennett University</strong>. 
 I'm deeply passionate about technology, especially in the fields of <strong>Machine Learning</strong>, <strong>Computer Vision</strong>, and <strong>Natural Language Processing</strong>. 
-In my free time, I enjoy exploring research papers to stay updated with the latest advancements in AI.
+In my free time, I enjoy exploring research papers to stay updated.
 </p>
 
 <p>
-Alongside AI/ML, I have a strong background in <strong>Full-Stack Web Development</strong>. I love building responsive, scalable, and modern web applications using technologies like <code>React</code>, <code>Node.js</code>, <code>Express</code>, <code>FastAPI</code>, and <code>Firebase</code>. 
-Whether it's designing frontend interfaces or working on backend APIs, I enjoy bringing ideas to life through code.
+Along with my interest in AI/ML, I’ve spent a lot of time working on <strong>full-stack web development</strong>. 
+  I’ve worked with tools like <code>React</code> for the frontend and <code>Node.js</code>, <code>Express</code>, <code>FastAPI</code>, and <code>Firebase</code> for the backend. 
 </p>
 
 <p>
-I'm always eager to collaborate on impactful projects, learn new technologies, and contribute to open-source communities. Let's connect and create something awesome together!
+I'm always eager to collaborate on impactful projects, learn new technologies, and contribute to open-source communities. Let's connect!
 </p>
 
 
